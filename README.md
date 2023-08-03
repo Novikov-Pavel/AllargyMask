@@ -1,4 +1,8 @@
-![License](https://img.shields.io/github/license/Novikov-Pavel/myPizza.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/Novikov-Pavel/myPizza.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/Novikov-Pavel/myPizza.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/Novikov-Pavel/myPizza.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/Novikov-Pavel/myPizza.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/Novikov-Pavel/AllargyMask.svg?style=for-the-badge) 
+![Repo Size](https://img.shields.io/github/languages/code-size/Novikov-Pavel/AllargyMask.svg?style=for-the-badge) 
+![TOP_LANGUAGE](https://img.shields.io/github/languages/top/Novikov-Pavel/AllargyMask.svg?style=for-the-badge) 
+![FORKS](https://img.shields.io/github/forks/Novikov-Pavel/AllargyMask.svg?style=for-the-badge&social) 
+![Stars](https://img.shields.io/github/stars/Novikov-Pavel/AllargyMask.svg?style=for-the-badge)
     
 # AllargyMask
 
@@ -28,7 +32,7 @@ AllargyMask - небольшой интернет-мазаин масок и р�
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Novikov-Pavel/AllargyMask/master/2023-08-02_17-30-57.png" />
+<img src="https://raw.githubusercontent.com/Novikov-Pavel/AllargyMask/master/2023-08-02_17-30-57.png" alt="скрин" />
 
 ## Built With
 
@@ -41,9 +45,6 @@ AllargyMask - небольшой интернет-мазаин масок и р�
 <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40px" width="40px" alt="SASS" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" alt="CSS" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" alt="HTML" />
 </a>
@@ -52,7 +53,7 @@ AllargyMask - небольшой интернет-мазаин масок и р�
 
 ### Prerequisites
 
-1. Установите среду разработки VS Code (https://code.visualstudio.com/download) или любую другую.
+1. Установите среду разработки [VS Code](https://code.visualstudio.com/download) или любую другую.
 2. Установите терминал или используйте встроенный в VS Code. 
 
 ### Installation
